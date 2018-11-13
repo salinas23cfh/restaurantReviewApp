@@ -33,8 +33,8 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 2. you will need python for this program
 3. Run file using python -m http.server in git terminal
 
-#Resources
-Udacity starter code
-Fend Project Resources (Walk Through)
-Udacity Student Hub
+# Resources
+1. Udacity starter code
+2. Fend Project Resources (Walk Through)
+3. Udacity Student Hub
 
