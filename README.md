@@ -36,4 +36,5 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 #Resources
 Udacity starter code
 Fend Project Resources (Walk Through)
+Udacity Student Hub
 
